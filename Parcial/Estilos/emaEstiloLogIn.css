@@ -1,0 +1,37 @@
+body{
+ margin-left:0px;
+ margin-top:0px;
+ font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+color:#fff;
+	font-size:9px; 
+	
+	
+ }
+ .imagenDeFondo{
+background: url(../imagenes/carp.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+		-moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+
+.fondoAzul{
+	background-color:#000033;
+	}
+
+.encabezadoLogin{
+	height:100px;
+	
+	
+}
+.encabezadoLogin table{
+	float:right;
+	margin-right:200px;
+	
+}
+
+.tamañoImagen{
+	width:1345px;
+	height:557px;
+}
